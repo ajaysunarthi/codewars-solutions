@@ -1,0 +1,1 @@
+var isLockNessMonster = (s) => /tree fiddy|three fifty|3.50/.test(s)
